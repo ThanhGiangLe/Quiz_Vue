@@ -1,0 +1,3219 @@
+[
+  {
+    "id": 1,
+    "img": "https://marvel-b1-cdn.bc0a.com/f00000000026007/resilienteducator.com/wp-content/uploads/2012/11/AdobeStock_60467600_cup.jpg",
+    "name": "Math",
+    "questions": [
+      {
+        "id": 1,
+        "text": "8 ÷ 2(2 + 2)",
+        "options": [
+          {
+            "id": 1,
+            "label": "A",
+            "text": "16",
+            "isCorrect": true
+          },
+          {
+            "id": 2,
+            "label": "B",
+            "text": "1",
+            "isCorrect": false
+          },
+          {
+            "id": 3,
+            "label": "C",
+            "text": "8",
+            "isCorrect": false
+          },
+          {
+            "id": 4,
+            "label": "D",
+            "text": "24",
+            "isCorrect": false
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "text": "sqrt(64) * 9",
+        "options": [
+          {
+            "id": 1,
+            "label": "A",
+            "text": "4",
+            "isCorrect": false
+          },
+          {
+            "id": 2,
+            "label": "B",
+            "text": "81",
+            "isCorrect": false
+          },
+          {
+            "id": 3,
+            "label": "C",
+            "text": "72",
+            "isCorrect": true
+          },
+          {
+            "id": 4,
+            "label": "D",
+            "text": "144",
+            "isCorrect": false
+          }
+        ]
+      },
+      {
+        "id": 3,
+        "text": "3 + 3 x 3 ÷ 3 - 3",
+        "options": [
+          {
+            "id": 1,
+            "label": "A",
+            "text": "3",
+            "isCorrect": true
+          },
+          {
+            "id": 2,
+            "label": "B",
+            "text": "1",
+            "isCorrect": false
+          },
+          {
+            "id": 3,
+            "label": "C",
+            "text": "9",
+            "isCorrect": false
+          },
+          {
+            "id": 4,
+            "label": "D",
+            "text": "16",
+            "isCorrect": false
+          }
+        ]
+      },
+      {
+        "id": 4,
+        "text": "8 ÷ 2(2 + 2)",
+        "options": [
+          {
+            "id": 1,
+            "label": "A",
+            "text": "16",
+            "isCorrect": true
+          },
+          {
+            "id": 2,
+            "label": "B",
+            "text": "1",
+            "isCorrect": false
+          },
+          {
+            "id": 3,
+            "label": "C",
+            "text": "8",
+            "isCorrect": false
+          },
+          {
+            "id": 4,
+            "label": "D",
+            "text": "24",
+            "isCorrect": false
+          }
+        ]
+      },
+      {
+        "id": 5,
+        "text": "sqrt(196) + 2^3",
+        "options": [
+          {
+            "id": 1,
+            "label": "A",
+            "text": "22",
+            "isCorrect": true
+          },
+          {
+            "id": 2,
+            "label": "B",
+            "text": "20",
+            "isCorrect": false
+          },
+          {
+            "id": 3,
+            "label": "C",
+            "text": "24",
+            "isCorrect": false
+          },
+          {
+            "id": 4,
+            "label": "D",
+            "text": "18",
+            "isCorrect": false
+          }
+        ]
+      },
+      {
+        "id": 6,
+        "text": "log2(32) + 3!",
+        "options": [
+          {
+            "id": 1,
+            "label": "A",
+            "text": "8",
+            "isCorrect": true
+          },
+          {
+            "id": 2,
+            "label": "B",
+            "text": "7",
+            "isCorrect": false
+          },
+          {
+            "id": 3,
+            "label": "C",
+            "text": "6",
+            "isCorrect": false
+          },
+          {
+            "id": 4,
+            "label": "D",
+            "text": "5",
+            "isCorrect": false
+          }
+        ]
+      },
+      {
+        "id": 7,
+        "text": "(5^2 + 4^2)^0.5",
+        "options": [
+          {
+            "id": 1,
+            "label": "A",
+            "text": "6.4",
+            "isCorrect": false
+          },
+          {
+            "id": 2,
+            "label": "B",
+            "text": "7",
+            "isCorrect": true
+          },
+          {
+            "id": 3,
+            "label": "C",
+            "text": "9",
+            "isCorrect": false
+          },
+          {
+            "id": 4,
+            "label": "D",
+            "text": "6",
+            "isCorrect": false
+          }
+        ]
+      },
+      {
+        "id": 8,
+        "text": "2 * (3 + 5) - 4!",
+        "options": [
+          {
+            "id": 1,
+            "label": "A",
+            "text": "-10",
+            "isCorrect": true
+          },
+          {
+            "id": 2,
+            "label": "B",
+            "text": "2",
+            "isCorrect": false
+          },
+          {
+            "id": 3,
+            "label": "C",
+            "text": "6",
+            "isCorrect": false
+          },
+          {
+            "id": 4,
+            "label": "D",
+            "text": "-8",
+            "isCorrect": false
+          }
+        ]
+      },
+      {
+        "id": 9,
+        "text": "(7^2 - 5^2) / (9 - 7)",
+        "options": [
+          {
+            "id": 1,
+            "label": "A",
+            "text": "12",
+            "isCorrect": true
+          },
+          {
+            "id": 2,
+            "label": "B",
+            "text": "6",
+            "isCorrect": false
+          },
+          {
+            "id": 3,
+            "label": "C",
+            "text": "14",
+            "isCorrect": false
+          },
+          {
+            "id": 4,
+            "label": "D",
+            "text": "10",
+            "isCorrect": false
+          }
+        ]
+      },
+      {
+        "id": 10,
+        "text": "10! / (8! * 2!)",
+        "options": [
+          {
+            "id": 1,
+            "label": "A",
+            "text": "45",
+            "isCorrect": true
+          },
+          {
+            "id": 2,
+            "label": "B",
+            "text": "90",
+            "isCorrect": false
+          },
+          {
+            "id": 3,
+            "label": "C",
+            "text": "120",
+            "isCorrect": false
+          },
+          {
+            "id": 4,
+            "label": "D",
+            "text": "30",
+            "isCorrect": false
+          }
+        ]
+      },
+      {
+        "id": 11,
+        "text": "2^5 - 3^3 + sqrt(81)",
+        "options": [
+          {
+            "id": 1,
+            "label": "A",
+            "text": "4",
+            "isCorrect": true
+          },
+          {
+            "id": 2,
+            "label": "B",
+            "text": "8",
+            "isCorrect": false
+          },
+          {
+            "id": 3,
+            "label": "C",
+            "text": "6",
+            "isCorrect": false
+          },
+          {
+            "id": 4,
+            "label": "D",
+            "text": "10",
+            "isCorrect": false
+          }
+        ]
+      },
+      {
+        "id": 12,
+        "text": "(5 * 3^2 - 10) / 5",
+        "options": [
+          {
+            "id": 1,
+            "label": "A",
+            "text": "7",
+            "isCorrect": true
+          },
+          {
+            "id": 2,
+            "label": "B",
+            "text": "5",
+            "isCorrect": false
+          },
+          {
+            "id": 3,
+            "label": "C",
+            "text": "9",
+            "isCorrect": false
+          },
+          {
+            "id": 4,
+            "label": "D",
+            "text": "8",
+            "isCorrect": false
+          }
+        ]
+      },
+      {
+        "id": 13,
+        "text": "log10(1000) - log10(10)",
+        "options": [
+          {
+            "id": 1,
+            "label": "A",
+            "text": "2",
+            "isCorrect": true
+          },
+          {
+            "id": 2,
+            "label": "B",
+            "text": "1",
+            "isCorrect": false
+          },
+          {
+            "id": 3,
+            "label": "C",
+            "text": "3",
+            "isCorrect": false
+          },
+          {
+            "id": 4,
+            "label": "D",
+            "text": "4",
+            "isCorrect": false
+          }
+        ]
+      },
+      {
+        "id": 14,
+        "text": "(8^2 + 6^2)^(1/2)",
+        "options": [
+          {
+            "id": 1,
+            "label": "A",
+            "text": "10",
+            "isCorrect": true
+          },
+          {
+            "id": 2,
+            "label": "B",
+            "text": "12",
+            "isCorrect": false
+          },
+          {
+            "id": 3,
+            "label": "C",
+            "text": "14",
+            "isCorrect": false
+          },
+          {
+            "id": 4,
+            "label": "D",
+            "text": "8",
+            "isCorrect": false
+          }
+        ]
+      },
+      {
+        "id": 15,
+        "text": "(5 + 7) * 2 - (3 + 1)^2",
+        "options": [
+          {
+            "id": 1,
+            "label": "A",
+            "text": "10",
+            "isCorrect": true
+          },
+          {
+            "id": 2,
+            "label": "B",
+            "text": "12",
+            "isCorrect": false
+          },
+          {
+            "id": 3,
+            "label": "C",
+            "text": "8",
+            "isCorrect": false
+          },
+          {
+            "id": 4,
+            "label": "D",
+            "text": "14",
+            "isCorrect": false
+          }
+        ]
+      },
+      {
+        "id": 16,
+        "text": "2^(3 + 2) - 5!",
+        "options": [
+          {
+            "id": 1,
+            "label": "A",
+
+            "text": "4",
+            "isCorrect": true
+          },
+          {
+            "id": 2,
+            "label": "B",
+            "text": "6",
+            "isCorrect": false
+          },
+          {
+            "id": 3,
+            "label": "C",
+            "text": "-2",
+            "isCorrect": false
+          },
+          {
+            "id": 4,
+            "label": "D",
+            "text": "8",
+            "isCorrect": false
+          }
+        ]
+      },
+      {
+        "id": 17,
+        "text": "3 * 4^2 - sqrt(64)",
+        "options": [
+          {
+            "id": 1,
+            "label": "A",
+            "text": "40",
+            "isCorrect": true
+          },
+          {
+            "id": 2,
+            "label": "B",
+            "text": "32",
+            "isCorrect": false
+          },
+          {
+            "id": 3,
+            "label": "C",
+            "text": "24",
+            "isCorrect": false
+          },
+          {
+            "id": 4,
+            "label": "D",
+            "text": "36",
+            "isCorrect": false
+          }
+        ]
+      },
+      {
+        "id": 18,
+        "text": "(9^2 - 3^3) / 2",
+        "options": [
+          {
+            "id": 1,
+            "label": "A",
+            "text": "36",
+            "isCorrect": true
+          },
+          {
+            "id": 2,
+            "label": "B",
+            "text": "27",
+            "isCorrect": false
+          },
+          {
+            "id": 3,
+            "label": "C",
+            "text": "30",
+            "isCorrect": false
+          },
+          {
+            "id": 4,
+            "label": "D",
+            "text": "33",
+            "isCorrect": false
+          }
+        ]
+      },
+      {
+        "id": 19,
+        "text": "5! / (2! * 3!)",
+        "options": [
+          {
+            "id": 1,
+            "label": "A",
+            "text": "10",
+            "isCorrect": true
+          },
+          {
+            "id": 2,
+            "label": "B",
+            "text": "20",
+            "isCorrect": false
+          },
+          {
+            "id": 3,
+            "label": "C",
+            "text": "30",
+            "isCorrect": false
+          },
+          {
+            "id": 4,
+            "label": "D",
+            "text": "5",
+            "isCorrect": false
+          }
+        ]
+      },
+      {
+        "id": 20,
+        "text": "sqrt(256) + 3^2",
+        "options": [
+          {
+            "id": 1,
+            "label": "A",
+            "text": "25",
+            "isCorrect": true
+          },
+          {
+            "id": 2,
+            "label": "B",
+            "text": "24",
+            "isCorrect": false
+          },
+          {
+            "id": 3,
+            "label": "C",
+            "text": "20",
+            "isCorrect": false
+          },
+          {
+            "id": 4,
+            "label": "D",
+            "text": "18",
+            "isCorrect": false
+          }
+        ]
+      },
+      {
+        "id": 21,
+        "text": "log2(64) - log2(8)",
+        "options": [
+          {
+            "id": 1,
+            "label": "A",
+            "text": "3",
+            "isCorrect": true
+          },
+          {
+            "id": 2,
+            "label": "B",
+            "text": "2",
+            "isCorrect": false
+          },
+          {
+            "id": 3,
+            "label": "C",
+            "text": "4",
+            "isCorrect": false
+          },
+          {
+            "id": 4,
+            "label": "D",
+            "text": "1",
+            "isCorrect": false
+          }
+        ]
+      },
+      {
+        "id": 22,
+        "text": "e^2 * ln(e)",
+        "options": [
+          {
+            "id": 1,
+            "label": "A",
+            "text": "e^2",
+            "isCorrect": true
+          },
+          {
+            "id": 2,
+            "label": "B",
+            "text": "2e",
+            "isCorrect": false
+          },
+          {
+            "id": 3,
+            "label": "C",
+            "text": "e",
+            "isCorrect": false
+          },
+          {
+            "id": 4,
+            "label": "D",
+            "text": "2",
+            "isCorrect": false
+          }
+        ]
+      },
+      {
+        "id": 23,
+        "text": "sin(30) + cos(60)",
+        "options": [
+          {
+            "id": 1,
+            "label": "A",
+            "text": "1",
+            "isCorrect": true
+          },
+          {
+            "id": 2,
+            "label": "B",
+            "text": "0",
+            "isCorrect": false
+          },
+          {
+            "id": 3,
+            "label": "C",
+            "text": "0.5",
+            "isCorrect": false
+          },
+          {
+            "id": 4,
+            "label": "D",
+            "text": "1.5",
+            "isCorrect": false
+          }
+        ]
+      },
+      {
+        "id": 24,
+        "text": "tan(45) * cot(45)",
+        "options": [
+          {
+            "id": 1,
+            "label": "A",
+            "text": "1",
+            "isCorrect": true
+          },
+          {
+            "id": 2,
+            "label": "B",
+            "text": "0",
+            "isCorrect": false
+          },
+          {
+            "id": 3,
+            "label": "C",
+            "text": "2",
+            "isCorrect": false
+          },
+          {
+            "id": 4,
+            "label": "D",
+            "text": "infinity",
+            "isCorrect": false
+          }
+        ]
+      },
+      {
+        "id": 25,
+        "text": "5^3 / 5^2",
+        "options": [
+          {
+            "id": 1,
+            "label": "A",
+            "text": "5",
+            "isCorrect": true
+          },
+          {
+            "id": 2,
+            "label": "B",
+            "text": "25",
+            "isCorrect": false
+          },
+          {
+            "id": 3,
+            "label": "C",
+            "text": "1",
+            "isCorrect": false
+          },
+          {
+            "id": 4,
+            "label": "D",
+            "text": "0",
+            "isCorrect": false
+          }
+        ]
+      },
+      {
+        "id": 26,
+        "text": "sqrt(49) * 2 + 3^2",
+        "options": [
+          {
+            "id": 1,
+            "label": "A",
+            "text": "25",
+            "isCorrect": true
+          },
+          {
+            "id": 2,
+            "label": "B",
+            "text": "20",
+            "isCorrect": false
+          },
+          {
+            "id": 3,
+            "label": "C",
+            "text": "18",
+            "isCorrect": false
+          },
+          {
+            "id": 4,
+            "label": "D",
+            "text": "16",
+            "isCorrect": false
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "img": "https://baoquangngai.vn/file/8a10a0d36ccebc89016ce0c6fa3e1b83/032024/92054586465e869bc13b23tgtp_20240308090107.jpg?width=800&height=-&type=resize",
+    "name": "Literature",
+    "questions": [
+      {
+        "id": 1,
+        "text": "Tác giả của tác phẩm 'Truyện Kiều' là ai?",
+        "options": [
+          {
+            "id": 1,
+            "label": "A",
+            "text": "Nguyễn Du",
+            "isCorrect": true
+          },
+          {
+            "id": 2,
+            "label": "B",
+            "text": "Nguyễn Trãi",
+            "isCorrect": false
+          },
+          {
+            "id": 3,
+            "label": "C",
+            "text": "Nguyễn Bỉnh Khiêm",
+            "isCorrect": false
+          },
+          {
+            "id": 4,
+            "label": "D",
+            "text": "Nguyễn Khuyến",
+            "isCorrect": false
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "text": "Tác phẩm 'Chí Phèo' của Nam Cao thuộc thể loại nào?",
+        "options": [
+          {
+            "id": 1,
+            "label": "A",
+            "text": "Tiểu thuyết",
+            "isCorrect": false
+          },
+          {
+            "id": 2,
+            "label": "B",
+            "text": "Truyện ngắn",
+            "isCorrect": true
+          },
+          {
+            "id": 3,
+            "label": "C",
+            "text": "Kịch",
+            "isCorrect": false
+          },
+          {
+            "id": 4,
+            "label": "D",
+            "text": "Tùy bút",
+            "isCorrect": false
+          }
+        ]
+      },
+      {
+        "id": 3,
+        "text": "Tác giả của bài thơ 'Đất nước' là ai?",
+        "options": [
+          {
+            "id": 1,
+            "label": "A",
+            "text": "Nguyễn Khoa Điềm",
+            "isCorrect": true
+          },
+          {
+            "id": 2,
+            "label": "B",
+            "text": "Tố Hữu",
+            "isCorrect": false
+          },
+          {
+            "id": 3,
+            "label": "C",
+            "text": "Xuân Diệu",
+            "isCorrect": false
+          },
+          {
+            "id": 4,
+            "label": "D",
+            "text": "Huy Cận",
+            "isCorrect": false
+          }
+        ]
+      },
+      {
+        "id": 4,
+        "text": "Trong tác phẩm 'Lão Hạc' của Nam Cao, nhân vật chính Lão Hạc đã phải bán con chó của mình vì lý do gì?",
+        "options": [
+          {
+            "id": 1,
+            "label": "A",
+            "text": "Không có tiền nuôi nó",
+            "isCorrect": true
+          },
+          {
+            "id": 2,
+            "label": "B",
+            "text": "Nó bị bệnh",
+            "isCorrect": false
+          },
+          {
+            "id": 3,
+            "label": "C",
+            "text": "Không muốn nuôi nữa",
+            "isCorrect": false
+          },
+          {
+            "id": 4,
+            "label": "D",
+            "text": "Bị mất trộm",
+            "isCorrect": false
+          }
+        ]
+      },
+      {
+        "id": 5,
+        "text": "Tác giả của truyện ngắn 'Vợ nhặt' là ai?",
+        "options": [
+          {
+            "id": 1,
+            "label": "A",
+            "text": "Kim Lân",
+            "isCorrect": true
+          },
+          {
+            "id": 2,
+            "label": "B",
+            "text": "Ngô Tất Tố",
+            "isCorrect": false
+          },
+          {
+            "id": 3,
+            "label": "C",
+            "text": "Nam Cao",
+            "isCorrect": false
+          },
+          {
+            "id": 4,
+            "label": "D",
+            "text": "Tô Hoài",
+            "isCorrect": false
+          }
+        ]
+      },
+      {
+        "id": 6,
+        "text": "Nhân vật 'Mỵ' trong truyện ngắn 'Vợ chồng A Phủ' của Tô Hoài thuộc dân tộc nào?",
+        "options": [
+          {
+            "id": 1,
+            "label": "A",
+            "text": "Mường",
+            "isCorrect": false
+          },
+          {
+            "id": 2,
+            "label": "B",
+            "text": "Tày",
+            "isCorrect": false
+          },
+          {
+            "id": 3,
+            "label": "C",
+            "text": "H'Mông",
+            "isCorrect": true
+          },
+          {
+            "id": 4,
+            "label": "D",
+            "text": "Nùng",
+            "isCorrect": false
+          }
+        ]
+      },
+      {
+        "id": 7,
+        "text": "Tác phẩm 'Làng' của Kim Lân nói về chủ đề gì?",
+        "options": [
+          {
+            "id": 1,
+            "label": "A",
+            "text": "Chiến tranh",
+            "isCorrect": true
+          },
+          {
+            "id": 2,
+            "label": "B",
+            "text": "Tình yêu",
+            "isCorrect": false
+          },
+          {
+            "id": 3,
+            "label": "C",
+            "text": "Gia đình",
+            "isCorrect": false
+          },
+          {
+            "id": 4,
+            "label": "D",
+            "text": "Nông thôn",
+            "isCorrect": false
+          }
+        ]
+      },
+      {
+        "id": 8,
+        "text": "Tác giả của bài thơ 'Tây Tiến' là ai?",
+        "options": [
+          {
+            "id": 1,
+            "label": "A",
+            "text": "Quang Dũng",
+            "isCorrect": true
+          },
+          {
+            "id": 2,
+            "label": "B",
+            "text": "Xuân Diệu",
+            "isCorrect": false
+          },
+          {
+            "id": 3,
+            "label": "C",
+            "text": "Tố Hữu",
+            "isCorrect": false
+          },
+          {
+            "id": 4,
+            "label": "D",
+            "text": "Huy Cận",
+            "isCorrect": false
+          }
+        ]
+      },
+      {
+        "id": 9,
+        "text": "Nhân vật chính trong tác phẩm 'Số đỏ' của Vũ Trọng Phụng là ai?",
+        "options": [
+          {
+            "id": 1,
+            "label": "A",
+            "text": "Xuân Tóc Đỏ",
+            "isCorrect": true
+          },
+          {
+            "id": 2,
+            "label": "B",
+            "text": "Văn Minh",
+            "isCorrect": false
+          },
+          {
+            "id": 3,
+            "label": "C",
+            "text": "Bà Phó Đoan",
+            "isCorrect": false
+          },
+          {
+            "id": 4,
+            "label": "D",
+            "text": "Cô Tuyết",
+            "isCorrect": false
+          }
+        ]
+      },
+      {
+        "id": 10,
+        "text": "Trong tác phẩm 'Chuyện người con gái Nam Xương' của Nguyễn Dữ, nhân vật chính đã tự vẫn tại đâu?",
+        "options": [
+          {
+            "id": 1,
+            "label": "A",
+            "text": "Sông Đà",
+            "isCorrect": false
+          },
+          {
+            "id": 2,
+            "label": "B",
+            "text": "Sông Hồng",
+            "isCorrect": false
+          },
+          {
+            "id": 3,
+            "label": "C",
+            "text": "Sông Hoàng Giang",
+            "isCorrect": true
+          },
+          {
+            "id": 4,
+            "label": "D",
+            "text": "Sông Thương",
+            "isCorrect": false
+          }
+        ]
+      },
+      {
+        "id": 11,
+        "text": "Nhân vật Thúy Kiều trong 'Truyện Kiều' đã bán mình để cứu ai?",
+        "options": [
+          {
+            "id": 1,
+            "label": "A",
+            "text": "Cha",
+            "isCorrect": false
+          },
+          {
+            "id": 2,
+            "label": "B",
+            "text": "Mẹ",
+            "isCorrect": false
+          },
+          {
+            "id": 3,
+            "label": "C",
+            "text": "Em trai",
+            "isCorrect": false
+          },
+          {
+            "id": 4,
+            "label": "D",
+            "text": "Em gái",
+            "isCorrect": true
+          }
+        ]
+      },
+      {
+        "id": 12,
+        "text": "Tác giả của bài thơ 'Tiểu đội xe không kính' là ai?",
+        "options": [
+          {
+            "id": 1,
+            "label": "A",
+            "text": "Phạm Tiến Duật",
+            "isCorrect": true
+          },
+          {
+            "id": 2,
+            "label": "B",
+            "text": "Tố Hữu",
+            "isCorrect": false
+          },
+          {
+            "id": 3,
+            "label": "C",
+            "text": "Chế Lan Viên",
+            "isCorrect": false
+          },
+          {
+            "id": 4,
+            "label": "D",
+            "text": "Nguyễn Khoa Điềm",
+            "isCorrect": false
+          }
+        ]
+      },
+      {
+        "id": 13,
+        "text": "Nhân vật Tnú trong tác phẩm 'Rừng xà nu' của Nguyễn Trung Thành là người dân tộc nào?",
+        "options": [
+          {
+            "id": 1,
+            "label": "A",
+            "text": "Ba Na",
+            "isCorrect": false
+          },
+          {
+            "id": 2,
+            "label": "B",
+            "text": "Tày",
+            "isCorrect": false
+          },
+          {
+            "id": 3,
+            "label": "C",
+            "text": "Xơ Đăng",
+            "isCorrect": true
+          },
+          {
+            "id": 4,
+            "label": "D",
+            "text": "H'Mông",
+            "isCorrect": false
+          }
+        ]
+      },
+      {
+        "id": 14,
+        "text": "Trong tác phẩm 'Đoạn trường tân thanh', Nguyễn Du đã viết: 'Cổ lai chinh chiến kỷ nhân hồi' có nghĩa là gì?",
+        "options": [
+          {
+            "id": 1,
+            "label": "A",
+            "text": "Xưa nay chiến tranh có mấy ai trở về",
+            "isCorrect": true
+          },
+          {
+            "id": 2,
+            "label": "B",
+            "text": "Xưa nay chinh chiến chỉ có người ra đi",
+            "isCorrect": false
+          },
+          {
+            "id": 3,
+            "label": "C",
+            "text": "Chiến tranh mang lại đau thương",
+            "isCorrect": false
+          },
+          {
+            "id": 4,
+            "label": "D",
+            "text": "Người ra đi không bao giờ trở lại",
+            "isCorrect": false
+          }
+        ]
+      },
+      {
+        "id": 15,
+        "text": "Tác giả của truyện ngắn 'Chiếc thuyền ngoài xa' là ai?",
+        "options": [
+          {
+            "id": 1,
+            "label": "A",
+            "text": "Nguyễn Minh Châu",
+            "isCorrect": true
+          },
+          {
+            "id": 2,
+            "label": "B",
+            "text": "Nguyễn Công Hoan",
+            "isCorrect": false
+          },
+          {
+            "id": 3,
+            "label": "C",
+            "text": "Nguyễn Tuân",
+            "isCorrect": false
+          },
+          {
+            "id": 4,
+            "label": "D",
+            "text": "Nguyễn Huy Tưởng",
+            "isCorrect": false
+          }
+        ]
+      },
+      {
+        "id": 16,
+        "text": "Bài thơ 'Sóng' của Xuân Quỳnh được viết trong thời gian nào?",
+        "options": [
+          {
+            "id": 1,
+            "label": "A",
+            "text": "Kháng chiến chống Pháp",
+            "isCorrect": false
+          },
+          {
+            "id": 2,
+            "label": "B",
+            "text": "Kháng chiến chống Mỹ",
+            "isCorrect": true
+          },
+          {
+            "id": 3,
+            "label": "C",
+            "text": "Sau năm 1975",
+            "isCorrect": false
+          },
+          {
+            "id": 4,
+            "label": "D",
+            "text": "Trước Cách mạng tháng Tám",
+            "isCorrect": false
+          }
+        ]
+      },
+      {
+        "id": 17,
+        "text": "Tác phẩm 'Người lái đò sông Đà' của Nguyễn Tuân thuộc thể loại nào?",
+        "options": [
+          {
+            "id": 1,
+            "label": "A",
+            "text": "Tiểu thuyết",
+            "isCorrect": false
+          },
+          {
+            "id": 2,
+            "label": "B",
+            "text": "Truyện ngắn",
+            "isCorrect": false
+          },
+          {
+            "id": 3,
+            "label": "C",
+            "text": "Tùy bút",
+            "isCorrect": true
+          },
+          {
+            "id": 4,
+            "label": "D",
+            "text": "Kịch",
+            "isCorrect": false
+          }
+        ]
+      },
+      {
+        "id": 18,
+        "text": "Tác giả của bài thơ 'Đây thôn Vĩ Dạ' là ai?",
+        "options": [
+          {
+            "id": 1,
+            "label": "A",
+            "text": "Hàn Mặc Tử",
+            "isCorrect": true
+          },
+          {
+            "id": 2,
+            "label": "B",
+            "text": "Xuân Diệu",
+            "isCorrect": false
+          },
+          {
+            "id": 3,
+            "label": "C",
+            "text": "Chế Lan Viên",
+            "isCorrect": false
+          },
+          {
+            "id": 4,
+            "label": "D",
+            "text": "Bích Khê",
+            "isCorrect": false
+          }
+        ]
+      },
+      {
+        "id": 19,
+        "text": "Tác phẩm 'Rừng xà nu' của Nguyễn Trung Thành được viết trong thời kỳ nào?",
+        "options": [
+          {
+            "id": 1,
+            "label": "A",
+            "text": "Kháng chiến chống Pháp",
+            "isCorrect": false
+          },
+          {
+            "id": 2,
+            "label": "B",
+            "text": "Kháng chiến chống Mỹ",
+            "isCorrect": true
+          },
+          {
+            "id": 3,
+            "label": "C",
+            "text": "Sau năm 1975",
+            "isCorrect": false
+          },
+          {
+            "id": 4,
+            "label": "D",
+            "text": "Trước Cách mạng tháng Tám",
+            "isCorrect": false
+          }
+        ]
+      },
+      {
+        "id": 20,
+        "text": "Nhân vật chính trong truyện 'Chiếc lược ngà' của Nguyễn Quang Sáng là ai?",
+        "options": [
+          {
+            "id": 1,
+            "label": "A",
+            "text": "Bé Thu",
+            "isCorrect": false
+          },
+          {
+            "id": 2,
+            "label": "B",
+            "text": "Ông Sáu",
+            "isCorrect": true
+          },
+          {
+            "id": 3,
+            "label": "C",
+            "text": "Bà Sáu",
+            "isCorrect": false
+          },
+          {
+            "id": 4,
+            "label": "D",
+            "text": "Bé Hoa",
+            "isCorrect": false
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "img": "http://jobs.newscientist.com/getasset/c40a5488-11be-43b0-843f-a2e6ef9f0612/",
+    "name": "Chemistry",
+    "questions": [
+      {
+        "id": 1,
+        "text": "Nguyên tố nào là nguyên tố hóa học nhẹ nhất?",
+        "options": [
+          {
+            "id": 1,
+            "label": "A",
+            "text": "Hydro",
+            "isCorrect": true
+          },
+          {
+            "id": 2,
+            "label": "B",
+            "text": "Oxy",
+            "isCorrect": false
+          },
+          {
+            "id": 3,
+            "label": "C",
+            "text": "Nitrogen",
+            "isCorrect": false
+          },
+          {
+            "id": 4,
+            "label": "D",
+            "text": "Carbon",
+            "isCorrect": false
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "text": "H2O là công thức hóa học của gì?",
+        "options": [
+          {
+            "id": 1,
+            "label": "A",
+            "text": "Nước",
+            "isCorrect": true
+          },
+          {
+            "id": 2,
+            "label": "B",
+            "text": "Dioxit carbon",
+            "isCorrect": false
+          },
+          {
+            "id": 3,
+            "label": "C",
+            "text": "Amoniac",
+            "isCorrect": false
+          },
+          {
+            "id": 4,
+            "label": "D",
+            "text": "Acid sulfuric",
+            "isCorrect": false
+          }
+        ]
+      },
+      {
+        "id": 3,
+        "text": "HCl là công thức hóa học của gì?",
+        "options": [
+          {
+            "id": 1,
+            "label": "A",
+            "text": "Axít clohidric",
+            "isCorrect": true
+          },
+          {
+            "id": 2,
+            "label": "B",
+            "text": "Dioxit sulfur",
+            "isCorrect": false
+          },
+          {
+            "id": 3,
+            "label": "C",
+            "text": "Amoniac",
+            "isCorrect": false
+          },
+          {
+            "id": 4,
+            "label": "D",
+            "text": "Natri clorua",
+            "isCorrect": false
+          }
+        ]
+      },
+      {
+        "id": 4,
+        "text": "Nguyên tố nào có kí hiệu hóa học là Na?",
+        "options": [
+          {
+            "id": 1,
+            "label": "A",
+            "text": "Natri",
+            "isCorrect": true
+          },
+          {
+            "id": 2,
+            "label": "B",
+            "text": "Nitrogen",
+            "isCorrect": false
+          },
+          {
+            "id": 3,
+            "label": "C",
+            "text": "Neon",
+            "isCorrect": false
+          },
+          {
+            "id": 4,
+            "label": "D",
+            "text": "Magie",
+            "isCorrect": false
+          }
+        ]
+      },
+      {
+        "id": 5,
+        "text": "Đặc điểm của kim loại là gì?",
+        "options": [
+          {
+            "id": 1,
+            "label": "A",
+            "text": "Dẫn điện tốt và có độ dẻo cao",
+            "isCorrect": true
+          },
+          {
+            "id": 2,
+            "label": "B",
+            "text": "Không dẫn điện và có độ dẻo thấp",
+            "isCorrect": false
+          },
+          {
+            "id": 3,
+            "label": "C",
+            "text": "Chỉ dẫn nhiệt tốt",
+            "isCorrect": false
+          },
+          {
+            "id": 4,
+            "label": "D",
+            "text": "Không dẫn nhiệt và không dẫn điện",
+            "isCorrect": false
+          }
+        ]
+      },
+      {
+        "id": 6,
+        "text": "Chất nào không phải là hợp chất hữu cơ?",
+        "options": [
+          {
+            "id": 1,
+            "label": "A",
+            "text": "Natri clorua",
+            "isCorrect": true
+          },
+          {
+            "id": 2,
+            "label": "B",
+            "text": "Ethanol",
+            "isCorrect": false
+          },
+          {
+            "id": 3,
+            "label": "C",
+            "text": "Glucose",
+            "isCorrect": false
+          },
+          {
+            "id": 4,
+            "label": "D",
+            "text": "Acetic acid",
+            "isCorrect": false
+          }
+        ]
+      },
+      {
+        "id": 7,
+        "text": "Bicarbonate của natri có công thức hóa học là gì?",
+        "options": [
+          {
+            "id": 1,
+            "label": "A",
+            "text": "NaHCO3",
+            "isCorrect": true
+          },
+          {
+            "id": 2,
+            "label": "B",
+            "text": "NaCl",
+            "isCorrect": false
+          },
+          {
+            "id": 3,
+            "label": "C",
+            "text": "NaOH",
+            "isCorrect": false
+          },
+          {
+            "id": 4,
+            "label": "D",
+            "text": "Na2SO4",
+            "isCorrect": false
+          }
+        ]
+      },
+      {
+        "id": 8,
+        "text": "Khi đốt cháy hoàn toàn một hợp chất hữu cơ, sản phẩm thu được là gì?",
+        "options": [
+          {
+            "id": 1,
+            "label": "A",
+            "text": "CO2 và H2O",
+            "isCorrect": true
+          },
+          {
+            "id": 2,
+            "label": "B",
+            "text": "CO và H2",
+            "isCorrect": false
+          },
+          {
+            "id": 3,
+            "label": "C",
+            "text": "O2 và H2",
+            "isCorrect": false
+          },
+          {
+            "id": 4,
+            "label": "D",
+            "text": "H2O và CH4",
+            "isCorrect": false
+          }
+        ]
+      },
+      {
+        "id": 9,
+        "text": "Hợp chất nào sau đây là axit mạnh?",
+        "options": [
+          {
+            "id": 1,
+            "label": "A",
+            "text": "HCl",
+            "isCorrect": true
+          },
+          {
+            "id": 2,
+            "label": "B",
+            "text": "CH3COOH",
+            "isCorrect": false
+          },
+          {
+            "id": 3,
+            "label": "C",
+            "text": "H2CO3",
+            "isCorrect": false
+          },
+          {
+            "id": 4,
+            "label": "D",
+            "text": "H2SO3",
+            "isCorrect": false
+          }
+        ]
+      },
+      {
+        "id": 10,
+        "text": "Lượng khí O2 cần thiết để đốt cháy hoàn toàn 1 mol metan (CH4) là bao nhiêu?",
+        "options": [
+          {
+            "id": 1,
+            "label": "A",
+            "text": "2 mol",
+            "isCorrect": false
+          },
+          {
+            "id": 2,
+            "label": "B",
+            "text": "4 mol",
+            "isCorrect": true
+          },
+          {
+            "id": 3,
+            "label": "C",
+            "text": "6 mol",
+            "isCorrect": false
+          },
+          {
+            "id": 4,
+            "label": "D",
+            "text": "1 mol",
+            "isCorrect": false
+          }
+        ]
+      },
+      {
+        "id": 11,
+        "text": "Chất nào sau đây là chất xúc tác cho phản ứng oxi hóa khử?",
+        "options": [
+          {
+            "id": 1,
+            "label": "A",
+            "text": "Catalase",
+            "isCorrect": true
+          },
+          {
+            "id": 2,
+            "label": "B",
+            "text": "Acid sulfuric",
+            "isCorrect": false
+          },
+          {
+            "id": 3,
+            "label": "C",
+            "text": "Natri clorua",
+            "isCorrect": false
+          },
+          {
+            "id": 4,
+            "label": "D",
+            "text": "Natri hidroxit",
+            "isCorrect": false
+          }
+        ]
+      },
+      {
+        "id": 12,
+        "text": "Hợp chất nào sau đây là chất oxit bazơ?",
+        "options": [
+          {
+            "id": 1,
+            "label": "A",
+            "text": "Na2O",
+            "isCorrect": true
+          },
+          {
+            "id": 2,
+            "label": "B",
+
+            "text": "CO2",
+            "isCorrect": false
+          },
+          {
+            "id": 3,
+            "label": "C",
+            "text": "H2O",
+            "isCorrect": false
+          },
+          {
+            "id": 4,
+            "label": "D",
+            "text": "SO3",
+            "isCorrect": false
+          }
+        ]
+      },
+      {
+        "id": 13,
+        "text": "Nước có pH khoảng bao nhiêu?",
+        "options": [
+          {
+            "id": 1,
+            "label": "A",
+            "text": "7",
+            "isCorrect": true
+          },
+          {
+            "id": 2,
+            "label": "B",
+            "text": "4",
+            "isCorrect": false
+          },
+          {
+            "id": 3,
+            "label": "C",
+            "text": "9",
+            "isCorrect": false
+          },
+          {
+            "id": 4,
+            "label": "D",
+            "text": "1",
+            "isCorrect": false
+          }
+        ]
+      },
+      {
+        "id": 14,
+        "text": "Hợp chất nào sau đây được gọi là hợp chất vô cơ?",
+        "options": [
+          {
+            "id": 1,
+            "label": "A",
+            "text": "Natri clorua",
+            "isCorrect": true
+          },
+          {
+            "id": 2,
+            "label": "B",
+            "text": "Glucose",
+            "isCorrect": false
+          },
+          {
+            "id": 3,
+            "label": "C",
+            "text": "Cồn",
+            "isCorrect": false
+          },
+          {
+            "id": 4,
+            "label": "D",
+            "text": "Xenluloza",
+            "isCorrect": false
+          }
+        ]
+      },
+      {
+        "id": 15,
+        "text": "Hợp chất nào sau đây không hòa tan trong nước?",
+        "options": [
+          {
+            "id": 1,
+            "label": "A",
+            "text": "Dầu thực vật",
+            "isCorrect": true
+          },
+          {
+            "id": 2,
+            "label": "B",
+            "text": "Muối ăn",
+            "isCorrect": false
+          },
+          {
+            "id": 3,
+            "label": "C",
+            "text": "Đường",
+            "isCorrect": false
+          },
+          {
+            "id": 4,
+            "label": "D",
+            "text": "Rượu",
+            "isCorrect": false
+          }
+        ]
+      },
+      {
+        "id": 16,
+        "text": "Chất nào sau đây là axit cacbonic?",
+        "options": [
+          {
+            "id": 1,
+            "label": "A",
+            "text": "H2CO3",
+            "isCorrect": true
+          },
+          {
+            "id": 2,
+            "label": "B",
+            "text": "HCl",
+            "isCorrect": false
+          },
+          {
+            "id": 3,
+            "label": "C",
+            "text": "H2SO4",
+            "isCorrect": false
+          },
+          {
+            "id": 4,
+            "label": "D",
+            "text": "CH3COOH",
+            "isCorrect": false
+          }
+        ]
+      },
+      {
+        "id": 17,
+        "text": "Chất nào sau đây là chất khí ở nhiệt độ phòng?",
+        "options": [
+          {
+            "id": 1,
+            "label": "A",
+            "text": "Oxy",
+            "isCorrect": true
+          },
+          {
+            "id": 2,
+            "label": "B",
+            "text": "Natri",
+            "isCorrect": false
+          },
+          {
+            "id": 3,
+            "label": "C",
+            "text": "Nước",
+            "isCorrect": false
+          },
+          {
+            "id": 4,
+            "label": "D",
+            "text": "Rượu",
+            "isCorrect": false
+          }
+        ]
+      },
+      {
+        "id": 18,
+        "text": "Sắt có thể phản ứng với hợp chất nào sau đây để tạo thành sắt(III) clorua?",
+        "options": [
+          {
+            "id": 1,
+            "label": "A",
+            "text": "Clor",
+            "isCorrect": true
+          },
+          {
+            "id": 2,
+            "label": "B",
+            "text": "Natri clorua",
+            "isCorrect": false
+          },
+          {
+            "id": 3,
+            "label": "C",
+            "text": "Amoniac",
+            "isCorrect": false
+          },
+          {
+            "id": 4,
+            "label": "D",
+            "text": "Hydroclorua",
+            "isCorrect": false
+          }
+        ]
+      },
+      {
+        "id": 19,
+        "text": "Chất nào sau đây là chất oxit axit?",
+        "options": [
+          {
+            "id": 1,
+            "label": "A",
+            "text": "SO3",
+            "isCorrect": true
+          },
+          {
+            "id": 2,
+            "label": "B",
+            "text": "CaO",
+            "isCorrect": false
+          },
+          {
+            "id": 3,
+            "label": "C",
+            "text": "Na2O",
+            "isCorrect": false
+          },
+          {
+            "id": 4,
+            "label": "D",
+            "text": "MgO",
+            "isCorrect": false
+          }
+        ]
+      },
+      {
+        "id": 20,
+        "text": "Hợp chất nào sau đây có công thức hóa học là NaCl?",
+        "options": [
+          {
+            "id": 1,
+            "label": "A",
+            "text": "Muối ăn",
+            "isCorrect": true
+          },
+          {
+            "id": 2,
+            "label": "B",
+            "text": "Natri bicarbonate",
+            "isCorrect": false
+          },
+          {
+            "id": 3,
+            "label": "C",
+            "text": "Natri clorua",
+            "isCorrect": false
+          },
+          {
+            "id": 4,
+            "label": "D",
+            "text": "Acid sulfuric",
+            "isCorrect": false
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "img": "data:image/jpeg;base64,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",
+    "name": "C++",
+    "questions": [
+      {
+        "id": 1,
+        "text": "Kết quả của đoạn mã sau là gì?\n\n```cpp\nint x = 10;\nint y = ++x + x++;\nstd::cout << y;\n```",
+        "options": [
+          {
+            "id": 1,
+            "label": "A",
+            "text": "21",
+            "isCorrect": true
+          },
+          {
+            "id": 2,
+            "label": "B",
+            "text": "20",
+            "isCorrect": false
+          },
+          {
+            "id": 3,
+            "label": "C",
+            "text": "22",
+            "isCorrect": false
+          },
+          {
+            "id": 4,
+            "label": "D",
+            "text": "19",
+            "isCorrect": false
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "text": "Kết quả của đoạn mã sau là gì?\n\n```cpp\nint a = 5;\nint b = a++ * 2;\nstd::cout << b;\n```",
+        "options": [
+          {
+            "id": 1,
+            "label": "A",
+            "text": "10",
+            "isCorrect": true
+          },
+          {
+            "id": 2,
+            "label": "B",
+            "text": "12",
+            "isCorrect": false
+          },
+          {
+            "id": 3,
+            "label": "C",
+            "text": "11",
+            "isCorrect": false
+          },
+          {
+            "id": 4,
+            "label": "D",
+            "text": "14",
+            "isCorrect": false
+          }
+        ]
+      },
+      {
+        "id": 3,
+        "text": "Kết quả của đoạn mã sau là gì?\n\n```cpp\nint x = 3;\nint y = 4;\nint z = x > y ? x : y;\nstd::cout << z;\n```",
+        "options": [
+          {
+            "id": 1,
+            "label": "A",
+            "text": "3",
+            "isCorrect": false
+          },
+          {
+            "id": 2,
+            "label": "B",
+            "text": "4",
+            "isCorrect": true
+          },
+          {
+            "id": 3,
+            "label": "C",
+            "text": "7",
+            "isCorrect": false
+          },
+          {
+            "id": 4,
+            "label": "D",
+            "text": "0",
+            "isCorrect": false
+          }
+        ]
+      },
+      {
+        "id": 4,
+        "text": "Kết quả của đoạn mã sau là gì?\n\n```cpp\nint a = 5;\nint b = 3;\nint c = a++ - --b;\nstd::cout << c;\n```",
+        "options": [
+          {
+            "id": 1,
+            "label": "A",
+            "text": "2",
+            "isCorrect": true
+          },
+          {
+            "id": 2,
+            "label": "B",
+            "text": "1",
+            "isCorrect": false
+          },
+          {
+            "id": 3,
+            "label": "C",
+            "text": "3",
+            "isCorrect": false
+          },
+          {
+            "id": 4,
+            "label": "D",
+            "text": "4",
+            "isCorrect": false
+          }
+        ]
+      },
+      {
+        "id": 5,
+        "text": "Kết quả của đoạn mã sau là gì?\n\n```cpp\nint x = 8;\nint y = x % 3;\nstd::cout << y;\n```",
+        "options": [
+          {
+            "id": 1,
+            "label": "A",
+            "text": "2",
+            "isCorrect": true
+          },
+          {
+            "id": 2,
+            "label": "B",
+            "text": "1",
+            "isCorrect": false
+          },
+          {
+            "id": 3,
+            "label": "C",
+            "text": "0",
+            "isCorrect": false
+          },
+          {
+            "id": 4,
+            "label": "D",
+            "text": "3",
+            "isCorrect": false
+          }
+        ]
+      },
+      {
+        "id": 6,
+        "text": "Kết quả của đoạn mã sau là gì?\n\n```cpp\nint x = 7;\nint y = 2 * ++x;\nstd::cout << y;\n```",
+        "options": [
+          {
+            "id": 1,
+            "label": "A",
+            "text": "16",
+            "isCorrect": true
+          },
+          {
+            "id": 2,
+            "label": "B",
+            "text": "14",
+            "isCorrect": false
+          },
+          {
+            "id": 3,
+            "label": "C",
+            "text": "15",
+            "isCorrect": false
+          },
+          {
+            "id": 4,
+            "label": "D",
+            "text": "18",
+            "isCorrect": false
+          }
+        ]
+      },
+      {
+        "id": 7,
+        "text": "Kết quả của đoạn mã sau là gì?\n\n```cpp\nint x = 10;\nint y = x / 3;\nstd::cout << y;\n```",
+        "options": [
+          {
+            "id": 1,
+            "label": "A",
+            "text": "3",
+            "isCorrect": true
+          },
+          {
+            "id": 2,
+            "label": "B",
+            "text": "3.333",
+            "isCorrect": false
+          },
+          {
+            "id": 3,
+            "label": "C",
+            "text": "2",
+            "isCorrect": false
+          },
+          {
+            "id": 4,
+            "label": "D",
+            "text": "4",
+            "isCorrect": false
+          }
+        ]
+      },
+      {
+        "id": 8,
+        "text": "Kết quả của đoạn mã sau là gì?\n\n```cpp\nint x = 5;\nint y = x * 2 + 1;\nstd::cout << y;\n```",
+        "options": [
+          {
+            "id": 1,
+            "label": "A",
+            "text": "11",
+            "isCorrect": true
+          },
+          {
+            "id": 2,
+            "label": "B",
+            "text": "10",
+            "isCorrect": false
+          },
+          {
+            "id": 3,
+            "label": "C",
+            "text": "12",
+            "isCorrect": false
+          },
+          {
+            "id": 4,
+            "label": "D",
+            "text": "13",
+            "isCorrect": false
+          }
+        ]
+      },
+      {
+        "id": 9,
+        "text": "Kết quả của đoạn mã sau là gì?\n\n```cpp\nint x = 6;\nint y = x-- - x--;\nstd::cout << y;\n```",
+        "options": [
+          {
+            "id": 1,
+            "label": "A",
+            "text": "1",
+            "isCorrect": true
+          },
+          {
+            "id": 2,
+            "label": "B",
+            "text": "2",
+            "isCorrect": false
+          },
+          {
+            "id": 3,
+            "label": "C",
+            "text": "0",
+            "isCorrect": false
+          },
+          {
+            "id": 4,
+            "label": "D",
+            "text": "4",
+            "isCorrect": false
+          }
+        ]
+      },
+      {
+        "id": 10,
+        "text": "Kết quả của đoạn mã sau là gì?\n\n```cpp\nint x = 9;\nint y = x + 2 * x / 3;\nstd::cout << y;\n```",
+        "options": [
+          {
+            "id": 1,
+            "label": "A",
+            "text": "11",
+            "isCorrect": true
+          },
+          {
+            "id": 2,
+            "label": "B",
+            "text": "12",
+            "isCorrect": false
+          },
+          {
+            "id": 3,
+            "label": "C",
+            "text": "15",
+            "isCorrect": false
+          },
+          {
+            "id": 4,
+            "label": "D",
+            "text": "18",
+            "isCorrect": false
+          }
+        ]
+      },
+      {
+        "id": 11,
+        "text": "Kết quả của đoạn mã sau là gì?\n\n```cpp\nint x = 2;\nint y = 3;\nint z = ++x * y++;\nstd::cout << z;\n```",
+        "options": [
+          {
+            "id": 1,
+            "label": "A",
+            "text": "9",
+            "isCorrect": true
+          },
+          {
+            "id": 2,
+            "label": "B",
+            "text": "6",
+            "isCorrect": false
+          },
+          {
+            "id": 3,
+            "label": "C",
+            "text": "10",
+            "isCorrect": false
+          },
+          {
+            "id": 4,
+            "label": "D",
+            "text": "8",
+            "isCorrect": false
+          }
+        ]
+      },
+      {
+        "id": 12,
+        "text": "Kết quả của đoạn mã sau là gì?\n\n```cpp\nint x = 3;\nint y = x++ * x;\nstd::cout << y;\n```",
+        "options": [
+          {
+            "id": 1,
+            "label": "A",
+            "text": "9",
+            "isCorrect": false
+          },
+          {
+            "id": 2,
+            "label": "B",
+            "text": "12",
+            "isCorrect": true
+          },
+          {
+            "id": 3,
+            "label": "C",
+            "text": "15",
+            "isCorrect": false
+          },
+          {
+            "id": 4,
+            "label": "D",
+            "text": "8",
+            "isCorrect": false
+          }
+        ]
+      },
+      {
+        "id": 13,
+        "text": "Kết quả của đoạn mã sau là gì?\n\n```cpp\nint x = 10;\nint y = x % 4 + 2;\nstd::cout << y;\n```",
+        "options": [
+          {
+            "id": 1,
+            "label": "A",
+            "text": "4",
+            "isCorrect": true
+          },
+          {
+            "id": 2,
+            "label": "B",
+            "text": "2",
+            "isCorrect": false
+          },
+          {
+            "id": 3,
+            "label": "C",
+            "text": "6",
+            "isCorrect": false
+          },
+          {
+            "id": 4,
+            "label": "D",
+            "text": "8",
+            "isCorrect": false
+          }
+        ]
+      },
+      {
+        "id": 14,
+        "text": "Kết quả của đoạn mã sau là gì?\n\n```cpp\nint x = 5;\nint y = --x + x--;\nstd::cout << y;\n```",
+        "options": [
+          {
+            "id": 1,
+            "label": "A",
+            "text": "8",
+            "isCorrect": true
+          },
+          {
+            "id": 2,
+            "label": "B",
+            "text": "9",
+            "isCorrect": false
+          },
+          {
+            "id": 3,
+            "label": "C",
+            "text": "7",
+            "isCorrect": false
+          },
+          {
+            "id": 4,
+            "label": "D",
+            "text": "10",
+            "isCorrect": false
+          }
+        ]
+      },
+      {
+        "id": 15,
+        "text": "Kết quả của đoạn mã sau là gì?\n\n```cpp\nint x = 8;\nint y = x-- / 2;\nstd::cout << y;\n```",
+        "options": [
+          {
+            "id": 1,
+            "label": "A",
+            "text": "4",
+            "isCorrect": true
+          },
+          {
+            "id": 2,
+            "label": "B",
+            "text": "3",
+            "isCorrect": false
+          },
+          {
+            "id": 3,
+            "label": "C",
+            "text": "5",
+            "isCorrect": false
+          },
+          {
+            "id": 4,
+            "label": "D",
+            "text": "6",
+            "isCorrect": false
+          }
+        ]
+      },
+      {
+        "id": 16,
+        "text": "Kết quả của đoạn mã sau là gì?\n\n```cpp\nint x = 4;\nint y = x + x++ * 2;\nstd::cout << y;\n```",
+        "options": [
+          {
+            "id": 1,
+            "label": "A",
+            "text": "12",
+            "isCorrect": false
+          },
+          {
+            "id": 2,
+            "label": "B",
+            "text": "14",
+            "isCorrect": true
+          },
+          {
+            "id": 3,
+            "label": "C",
+            "text": "16",
+            "isCorrect": false
+          },
+          {
+            "id": 4,
+            "label": "D",
+            "text": "18",
+            "isCorrect": false
+          }
+        ]
+      },
+      {
+        "id": 17,
+        "text": "Kết quả của đoạn mã sau là gì?\n\n```cpp\nint x = 3;\nint y = 2 * ++x;\nstd::cout << y;\n```",
+        "options": [
+          {
+            "id": 1,
+            "label": "A",
+            "text": "8",
+            "isCorrect": true
+          },
+          {
+            "id": 2,
+            "label": "B",
+            "text": "6",
+            "isCorrect": false
+          },
+          {
+            "id": 3,
+            "label": "C",
+            "text": "7",
+            "isCorrect": false
+          },
+          {
+            "id": 4,
+            "label": "D",
+            "text": "9",
+            "isCorrect": false
+          }
+        ]
+      },
+      {
+        "id": 18,
+        "text": "Kết quả của đoạn mã sau là gì?\n\n```cpp\nint x = 5;\nint y = x * ++x;\nstd::cout << y;\n```",
+        "options": [
+          {
+            "id": 1,
+            "label": "A",
+            "text": "30",
+            "isCorrect": true
+          },
+          {
+            "id": 2,
+            "label": "B",
+            "text": "25",
+            "isCorrect": false
+          },
+          {
+            "id": 3,
+            "label": "C",
+            "text": "35",
+            "isCorrect": false
+          },
+          {
+            "id": 4,
+            "label": "D",
+            "text": "20",
+            "isCorrect": false
+          }
+        ]
+      },
+      {
+        "id": 19,
+        "text": "Kết quả của đoạn mã sau là gì?\n\n```cpp\nint x = 8;\nint y = x / 3 + x % 3;\nstd::cout << y;\n```",
+        "options": [
+          {
+            "id": 1,
+            "label": "A",
+            "text": "3",
+            "isCorrect": true
+          },
+          {
+            "id": 2,
+            "label": "B",
+            "text": "4",
+            "isCorrect": false
+          },
+          {
+            "id": 3,
+            "label": "C",
+            "text": "2",
+            "isCorrect": false
+          },
+          {
+            "id": 4,
+            "label": "D",
+            "text": "5",
+            "isCorrect": false
+          }
+        ]
+      },
+      {
+        "id": 20,
+        "text": "Kết quả của đoạn mã sau là gì?\n\n```cpp\nint x = 4;\nint y = x * 2 - x++;\nstd::cout << y;\n```",
+        "options": [
+          {
+            "id": 1,
+            "label": "A",
+            "text": "6",
+            "isCorrect": true
+          },
+          {
+            "id": 2,
+            "label": "B",
+            "text": "8",
+            "isCorrect": false
+          },
+          {
+            "id": 3,
+            "label": "C",
+            "text": "7",
+            "isCorrect": false
+          },
+          {
+            "id": 4,
+            "label": "D",
+            "text": "5",
+            "isCorrect": false
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "img": "data:image/png;base64,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",
+    "name": "HTML-CSS",
+    "questions": [
+      {
+        "id": 1,
+        "text": "Kết quả của đoạn mã HTML và CSS sau là gì?\n\n```html\n<!DOCTYPE html>\n<html>\n<head>\n  <style>\n    div {\n      color: red;\n    }\n    .blue {\n      color: blue;\n    }\n  </style>\n</head>\n<body>\n  <div class='blue'>Hello</div>\n</body>\n</html>\n```",
+        "options": [
+          {
+            "id": 1,
+            "label": "A",
+            "text": "Text có màu xanh",
+            "isCorrect": true
+          },
+          {
+            "id": 2,
+            "label": "B",
+            "text": "Text có màu đỏ",
+            "isCorrect": false
+          },
+          {
+            "id": 3,
+            "label": "C",
+            "text": "Text có màu xanh và đỏ",
+            "isCorrect": false
+          },
+          {
+            "id": 4,
+            "label": "D",
+            "text": "Không có màu sắc",
+            "isCorrect": false
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "text": "Kết quả của đoạn mã HTML và CSS sau là gì?\n\n```html\n<!DOCTYPE html>\n<html>\n<head>\n  <style>\n    p::first-line {\n      font-weight: bold;\n    }\n  </style>\n</head>\n<body>\n  <p>This is a paragraph.</p>\n</body>\n</html>\n```",
+        "options": [
+          {
+            "id": 1,
+            "label": "A",
+            "text": "Dòng đầu tiên của đoạn văn được in đậm",
+            "isCorrect": true
+          },
+          {
+            "id": 2,
+            "label": "B",
+            "text": "Toàn bộ đoạn văn được in đậm",
+            "isCorrect": false
+          },
+          {
+            "id": 3,
+            "label": "C",
+            "text": "Dòng đầu tiên được gạch chân",
+            "isCorrect": false
+          },
+          {
+            "id": 4,
+            "label": "D",
+            "text": "Không có sự thay đổi",
+            "isCorrect": false
+          }
+        ]
+      },
+      {
+        "id": 3,
+        "text": "Kết quả của đoạn mã HTML và CSS sau là gì?\n\n```html\n<!DOCTYPE html>\n<html>\n<head>\n  <style>\n    div {\n      background-color: lightblue;\n      width: 100px;\n      height: 100px;\n    }\n    .container {\n      padding: 20px;\n    }\n  </style>\n</head>\n<body>\n  <div class='container'>Content</div>\n</body>\n</html>\n```",
+        "options": [
+          {
+            "id": 1,
+            "label": "A",
+            "text": "Div có nền màu xanh nhạt với kích thước 100x100px và padding 20px",
+            "isCorrect": true
+          },
+          {
+            "id": 2,
+            "label": "B",
+            "text": "Div có nền màu xanh nhạt với kích thước 100x100px mà không có padding",
+            "isCorrect": false
+          },
+          {
+            "id": 3,
+            "label": "C",
+            "text": "Div có kích thước 100x100px và padding 20px, nhưng không có nền màu xanh",
+            "isCorrect": false
+          },
+          {
+            "id": 4,
+            "label": "D",
+            "text": "Div không có kích thước và padding",
+            "isCorrect": false
+          }
+        ]
+      },
+      {
+        "id": 4,
+        "text": "Kết quả của đoạn mã HTML và CSS sau là gì?\n\n```html\n<!DOCTYPE html>\n<html>\n<head>\n  <style>\n    .box {\n      border: 5px solid black;\n      padding: 10px;\n      margin: 15px;\n    }\n  </style>\n</head>\n<body>\n  <div class='box'>Box</div>\n</body>\n</html>\n```",
+        "options": [
+          {
+            "id": 1,
+            "label": "A",
+            "text": "Div có border 5px, padding 10px và margin 15px",
+            "isCorrect": true
+          },
+          {
+            "id": 2,
+            "label": "B",
+            "text": "Div có border 5px, padding 15px và margin 10px",
+            "isCorrect": false
+          },
+          {
+            "id": 3,
+            "label": "C",
+            "text": "Div có border 10px, padding 5px và margin 15px",
+            "isCorrect": false
+          },
+          {
+            "id": 4,
+            "label": "D",
+            "text": "Div có border 5px, không có padding và margin",
+            "isCorrect": false
+          }
+        ]
+      },
+      {
+        "id": 5,
+        "text": "Kết quả của đoạn mã HTML và CSS sau là gì?\n\n```html\n<!DOCTYPE html>\n<html>\n<head>\n  <style>\n    .text {\n      font-size: 20px;\n      text-transform: uppercase;\n    }\n  </style>\n</head>\n<body>\n  <p class='text'>hello world</p>\n</body>\n</html>\n```",
+        "options": [
+          {
+            "id": 1,
+            "label": "A",
+            "text": "Text sẽ được chuyển đổi thành chữ hoa và có kích thước 20px",
+            "isCorrect": true
+          },
+          {
+            "id": 2,
+            "label": "B",
+            "text": "Text sẽ không thay đổi kích thước và chữ hoa",
+            "isCorrect": false
+          },
+          {
+            "id": 3,
+            "label": "C",
+            "text": "Text sẽ có kích thước 20px nhưng không chuyển đổi thành chữ hoa",
+            "isCorrect": false
+          },
+          {
+            "id": 4,
+            "label": "D",
+            "text": "Text sẽ chuyển đổi thành chữ hoa nhưng kích thước sẽ không thay đổi",
+            "isCorrect": false
+          }
+        ]
+      },
+      {
+        "id": 6,
+        "text": "Kết quả của đoạn mã HTML và CSS sau là gì?\n\n```html\n<!DOCTYPE html>\n<html>\n<head>\n  <style>\n    .parent {\n      display: flex;\n    }\n    .child {\n      flex: 1;\n    }\n  </style>\n</head>\n<body>\n  <div class='parent'>\n    <div class='child'>1</div>\n    <div class='child'>2</div>\n  </div>\n</body>\n</html>\n```",
+        "options": [
+          {
+            "id": 1,
+            "label": "A",
+            "text": "Hai div con có kích thước bằng nhau và nằm trên cùng một hàng",
+            "isCorrect": true
+          },
+          {
+            "id": 2,
+            "label": "B",
+            "text": "Hai div con có kích thước khác nhau và nằm trên cùng một hàng",
+            "isCorrect": false
+          },
+          {
+            "id": 3,
+            "label": "C",
+            "text": "Hai div con nằm trên các hàng khác nhau và có kích thước bằng nhau",
+            "isCorrect": false
+          },
+          {
+            "id": 4,
+            "label": "D",
+            "text": "Hai div con nằm trên các hàng khác nhau và có kích thước khác nhau",
+            "isCorrect": false
+          }
+        ]
+      },
+      {
+        "id": 7,
+        "text": "Kết quả của đoạn mã HTML và CSS sau là gì?\n\n```html\n<!DOCTYPE html>\n<html>\n<head>\n  <style>\n    .container {\n      width: 200px;\n      height: 200px;\n      overflow: hidden;\n    }\n    .content {\n      width: 300px;\n      height: 300px;\n    }\n  </style>\n</head>\n<body>\n  <div class='container'>\n    <div class='content'>Content</div>\n  </div>\n</body>\n</html>\n```",
+        "options": [
+          {
+            "id": 1,
+            "label": "A",
+            "text": "Chỉ hiển thị phần nội dung trong kích thước 200x200px của container",
+            "isCorrect": true
+          },
+          {
+            "id": 2,
+            "label": "B",
+            "text": "Hiển thị toàn bộ nội dung với kích thước 300x300px",
+            "isCorrect": false
+          },
+          {
+            "id": 3,
+            "label": "C",
+            "text": "Hiển thị nội dung lớn hơn container và phần bị cắt bỏ sẽ có scrollbar",
+            "isCorrect": false
+          },
+          {
+            "id": 4,
+            "label": "D",
+            "text": "Hiển thị nội dung nhỏ hơn container và sẽ không bị cắt bỏ",
+            "isCorrect": false
+          }
+        ]
+      },
+      {
+        "id": 8,
+        "text": "Kết quả của đoạn mã HTML và CSS sau là gì?\n\n```html\n<!DOCTYPE html>\n<html>\n<head>\n  <style>\n    p {\n      margin: 0;\n    }\n    p + p {\n      margin-top: 20px;\n    }\n  </style>\n</head>\n<body>\n  <p>Paragraph 1</p>\n  <p>Paragraph 2</p>\n</body>\n</html>\n```",
+        "options": [
+          {
+            "id": 1,
+            "label": "A",
+            "text": "Paragraph 2 có margin-top 20px, Paragraph 1 không có margin",
+            "isCorrect": true
+          },
+          {
+            "id": 2,
+            "label": "B",
+            "text": "Cả hai đoạn văn đều có margin-top 20px",
+            "isCorrect": false
+          },
+          {
+            "id": 3,
+            "label": "C",
+            "text": "Cả hai đoạn văn đều không có margin-top",
+            "isCorrect": false
+          },
+          {
+            "id": 4,
+            "label": "D",
+            "text": "Paragraph 2 có margin-top 20px và Paragraph 1 có margin-top 20px",
+            "isCorrect": false
+          }
+        ]
+      },
+      {
+        "id": 9,
+        "text": "Kết quả của đoạn mã HTML và CSS sau là gì?\n\n```html\n<!DOCTYPE html>\n<html>\n<head>\n  <style>\n    .box {\n      width: 100px;\n      height: 100px;\n      background-color: yellow;\n      position: absolute;\n      top: 50px;\n      left: 50px;\n    }\n  </style>\n</head>\n<body>\n  <div class='box'></div>\n</body>\n</html>\n```",
+        "options": [
+          {
+            "id": 1,
+            "label": "A",
+            "text": "Div sẽ được đặt ở vị trí 50px từ trên và 50px từ trái",
+            "isCorrect": true
+          },
+          {
+            "id": 2,
+            "label": "B",
+            "text": "Div sẽ được đặt ở vị trí 50px từ trên và 50px từ phải",
+            "isCorrect": false
+          },
+          {
+            "id": 3,
+            "label": "C",
+            "text": "Div sẽ được đặt ở vị trí 100px từ trên và 100px từ trái",
+            "isCorrect": false
+          },
+          {
+            "id": 4,
+            "label": "D",
+            "text": "Div sẽ được đặt ở vị trí 0px từ trên và 0px từ trái",
+            "isCorrect": false
+          }
+        ]
+      },
+      {
+        "id": 10,
+        "text": "Kết quả của đoạn mã HTML và CSS sau là gì?\n\n```html\n<!DOCTYPE html>\n<html>\n<head>\n  <style>\n    .container {\n      display: grid;\n      grid-template-columns: 1fr 2fr;\n    }\n    .item {\n      border: 1px solid black;\n    }\n  </style>\n</head>\n<body>\n  <div class='container'>\n    <div class='item'>1</div>\n    <div class='item'>2</div>\n  </div>\n</body>\n</html>\n```",
+        "options": [
+          {
+            "id": 1,
+            "label": "A",
+            "text": "Hai div sẽ nằm cạnh nhau với kích thước tỷ lệ 1:2",
+            "isCorrect": true
+          },
+          {
+            "id": 2,
+            "label": "B",
+            "text": "Hai div sẽ nằm trên các hàng khác nhau với kích thước tỷ lệ 1:2",
+            "isCorrect": false
+          },
+          {
+            "id": 3,
+            "label": "C",
+            "text": "Hai div sẽ có kích thước bằng nhau và nằm cạnh nhau",
+            "isCorrect": false
+          },
+          {
+            "id": 4,
+            "label": "D",
+            "text": "Hai div sẽ nằm cạnh nhau với kích thước bằng nhau",
+            "isCorrect": false
+          }
+        ]
+      },
+      {
+        "id": 11,
+        "text": "Kết quả của đoạn mã HTML và CSS sau là gì?\n\n```html\n<!DOCTYPE html>\n<html>\n<head>\n  <style>\n    .box {\n      width: 100px;\n      height: 100px;\n      background-color: green;\n      clip-path: circle(50%);\n    }\n  </style>\n</head>\n<body>\n  <div class='box'></div>\n</body>\n</html>\n```",
+        "options": [
+          {
+            "id": 1,
+            "label": "A",
+            "text": "Div sẽ có hình dạng vòng tròn",
+            "isCorrect": true
+          },
+          {
+            "id": 2,
+            "label": "B",
+            "text": "Div sẽ có hình dạng hình vuông với màu nền xanh lá cây",
+            "isCorrect": false
+          },
+          {
+            "id": 3,
+            "label": "C",
+            "text": "Div sẽ bị cắt bỏ hình dạng",
+            "isCorrect": false
+          },
+          {
+            "id": 4,
+            "label": "D",
+            "text": "Div sẽ có hình dạng hình chữ nhật với màu nền xanh lá cây",
+            "isCorrect": false
+          }
+        ]
+      },
+      {
+        "id": 12,
+        "text": "Kết quả của đoạn mã HTML và CSS sau là gì?\n\n```html\n<!DOCTYPE html>\n<html>\n<head>\n  <style>\n    .box {\n      border: 2px solid black;\n      padding: 10px;\n      margin: 10px;\n      box-shadow: 5px 5px 10px gray;\n    }\n  </style>\n</head>\n<body>\n  <div class='box'>Content</div>\n</body>\n</html>\n```",
+        "options": [
+          {
+            "id": 1,
+            "label": "A",
+            "text": "Div có border, padding, margin và shadow",
+            "isCorrect": true
+          },
+          {
+            "id": 2,
+            "label": "B",
+            "text": "Div chỉ có border và padding",
+            "isCorrect": false
+          },
+          {
+            "id": 3,
+            "label": "C",
+            "text": "Div có border và shadow, không có padding và margin",
+            "isCorrect": false
+          },
+          {
+            "id": 4,
+            "label": "D",
+            "text": "Div không có shadow",
+            "isCorrect": false
+          }
+        ]
+      },
+      {
+        "id": 13,
+        "text": "Kết quả của đoạn mã HTML và CSS sau là gì?\n\n```html\n<!DOCTYPE html>\n<html>\n<head>\n  <style>\n    .box {\n      width: 100px;\n      height: 100px;\n      background: linear-gradient(to right, red, blue);\n    }\n  </style>\n</head>\n<body>\n  <div class='box'></div>\n</body>\n</html>\n```",
+        "options": [
+          {
+            "id": 1,
+            "label": "A",
+            "text": "Div có nền gradient chuyển từ đỏ sang xanh dương",
+            "isCorrect": true
+          },
+          {
+            "id": 2,
+            "label": "B",
+            "text": "Div có nền màu đỏ",
+            "isCorrect": false
+          },
+          {
+            "id": 3,
+            "label": "C",
+            "text": "Div có nền màu xanh dương",
+            "isCorrect": false
+          },
+          {
+            "id": 4,
+            "label": "D",
+            "text": "Div có nền gradient chuyển từ xanh dương sang đỏ",
+            "isCorrect": false
+          }
+        ]
+      },
+      {
+        "id": 14,
+        "text": "Kết quả của đoạn mã HTML và CSS sau là gì ?\n\n```html\n<!DOCTYPE html>\n<html>\n<head>\n  <style>\n    .box {\n      width: 100px;\n      height: 100px;\n      border: 2px solid black;\n      border-radius: 50%;\n    }\n  </style>\n</head>\n<body>\n  <div class='box'></div>\n</body>\n</html>\n```",
+        "options": [
+          {
+            "id": 1,
+            "label": "A",
+            "text": "Div sẽ có hình dạng vòng tròn với border đen",
+            "isCorrect": true
+          },
+          {
+            "id": 2,
+            "label": "B",
+            "text": "Div sẽ có hình dạng hình vuông với border đen",
+            "isCorrect": false
+          },
+          {
+            "id": 3,
+            "label": "C",
+            "text": "Div có border và kích thước hình chữ nhật",
+            "isCorrect": false
+          },
+          {
+            "id": 4,
+            "label": "D",
+            "text": "Div có hình dạng hình chữ nhật với border đen",
+            "isCorrect": false
+          }
+        ]
+      },
+      {
+        "id": 15,
+        "text": "Kết quả của đoạn mã HTML và CSS sau là gì?\n\n```html\n<!DOCTYPE html>\n<html>\n<head>\n  <style>\n    .text {\n      font-size: 20px;\n      line-height: 1.5;\n      color: rgba(0, 0, 0, 0.5);\n    }\n  </style>\n</head>\n<body>\n  <p class='text'>This is a text with adjusted line height and color</p>\n</body>\n</html>\n```",
+        "options": [
+          {
+            "id": 1,
+            "label": "A",
+            "text": "Text có kích thước 20px, line height 1.5 và màu sắc bán trong suốt",
+            "isCorrect": true
+          },
+          {
+            "id": 2,
+            "label": "B",
+            "text": "Text có kích thước 20px và màu sắc đen",
+            "isCorrect": false
+          },
+          {
+            "id": 3,
+            "label": "C",
+            "text": "Text có kích thước 15px, line height 1.5 và màu sắc bán trong suốt",
+            "isCorrect": false
+          },
+          {
+            "id": 4,
+            "label": "D",
+            "text": "Text có kích thước 20px, line height 1 và màu sắc bán trong suốt",
+            "isCorrect": false
+          }
+        ]
+      },
+      {
+        "id": 16,
+        "text": "Kết quả của đoạn mã HTML và CSS sau là gì?\n\n```html\n<!DOCTYPE html>\n<html>\n<head>\n  <style>\n    .box {\n      width: 100px;\n      height: 100px;\n      background: radial-gradient(circle, red, yellow);\n    }\n  </style>\n</head>\n<body>\n  <div class='box'></div>\n</body>\n</html>\n```",
+        "options": [
+          {
+            "id": 1,
+            "label": "A",
+            "text": "Div có nền gradient radial chuyển từ đỏ ở giữa sang vàng ở ngoài",
+            "isCorrect": true
+          },
+          {
+            "id": 2,
+            "label": "B",
+            "text": "Div có nền gradient linear chuyển từ đỏ sang vàng",
+            "isCorrect": false
+          },
+          {
+            "id": 3,
+            "label": "C",
+            "text": "Div có nền màu đỏ",
+            "isCorrect": false
+          },
+          {
+            "id": 4,
+            "label": "D",
+            "text": "Div có nền màu vàng",
+            "isCorrect": false
+          }
+        ]
+      },
+      {
+        "id": 17,
+        "text": "Kết quả của đoạn mã HTML và CSS sau là gì?\n\n```html\n<!DOCTYPE html>\n<html>\n<head>\n  <style>\n    .box {\n      display: flex;\n      justify-content: space-between;\n    }\n    .item {\n      width: 100px;\n    }\n  </style>\n</head>\n<body>\n  <div class='box'>\n    <div class='item'>1</div>\n    <div class='item'>2</div>\n    <div class='item'>3</div>\n  </div>\n</body>\n</html>\n```",
+        "options": [
+          {
+            "id": 1,
+            "label": "A",
+            "text": "Ba div sẽ được phân bố đều với khoảng cách đều nhau",
+            "isCorrect": true
+          },
+          {
+            "id": 2,
+            "label": "B",
+            "text": "Ba div sẽ nằm xếp chồng lên nhau",
+            "isCorrect": false
+          },
+          {
+            "id": 3,
+            "label": "C",
+            "text": "Ba div sẽ nằm liền kề nhau mà không có khoảng cách",
+            "isCorrect": false
+          },
+          {
+            "id": 4,
+            "label": "D",
+            "text": "Ba div sẽ nằm trên các hàng khác nhau",
+            "isCorrect": false
+          }
+        ]
+      },
+      {
+        "id": 18,
+        "text": "Kết quả của đoạn mã HTML và CSS sau là gì?\n\n```html\n<!DOCTYPE html>\n<html>\n<head>\n  <style>\n    .parent {\n      display: grid;\n      grid-template-columns: repeat(3, 1fr);\n    }\n    .child {\n      background: lightgray;\n    }\n  </style>\n</head>\n<body>\n  <div class='parent'>\n    <div class='child'>1</div>\n    <div class='child'>2</div>\n    <div class='child'>3</div>\n  </div>\n</body>\n</html>\n```",
+        "options": [
+          {
+            "id": 1,
+            "label": "A",
+            "text": "Ba div con nằm trong ba cột của một lưới ba cột",
+            "isCorrect": true
+          },
+          {
+            "id": 2,
+            "label": "B",
+            "text": "Ba div con nằm trên một hàng và có kích thước bằng nhau",
+            "isCorrect": false
+          },
+          {
+            "id": 3,
+            "label": "C",
+            "text": "Ba div con nằm trong một cột và có kích thước khác nhau",
+            "isCorrect": false
+          },
+          {
+            "id": 4,
+            "label": "D",
+            "text": "Ba div con nằm trong ba hàng của một lưới ba hàng",
+            "isCorrect": false
+          }
+        ]
+      },
+      {
+        "id": 19,
+        "text": "Kết quả của đoạn mã HTML và CSS sau là gì?\n\n```html\n<!DOCTYPE html>\n<html>\n<head>\n  <style>\n    .box {\n      display: grid;\n      grid-template-rows: repeat(3, 1fr);\n    }\n    .item {\n      background: lightcoral;\n    }\n  </style>\n</head>\n<body>\n  <div class='box'>\n    <div class='item'>1</div>\n    <div class='item'>2</div>\n    <div class='item'>3</div>\n  </div>\n</body>\n</html>\n```",
+        "options": [
+          {
+            "id": 1,
+            "label": "A",
+            "text": "Ba div con nằm trong ba hàng của một lưới ba hàng",
+            "isCorrect": true
+          },
+          {
+            "id": 2,
+            "label": "B",
+            "text": "Ba div con nằm trong ba cột của một lưới ba cột",
+            "isCorrect": false
+          },
+          {
+            "id": 3,
+            "label": "C",
+            "text": "Ba div con nằm trong một hàng và có kích thước khác nhau",
+            "isCorrect": false
+          },
+          {
+            "id": 4,
+            "label": "D",
+            "text": "Ba div con nằm trong một cột và có kích thước bằng nhau",
+            "isCorrect": false
+          }
+        ]
+      },
+      {
+        "id": 20,
+        "text": "Kết quả của đoạn mã HTML và CSS sau là gì?\n\n```html\n<!DOCTYPE html>\n<html>\n<head>\n  <style>\n    .box {\n      position: relative;\n      width: 100px;\n      height: 100px;\n      background-color: pink;\n    }\n    .box::after {\n      content:'After';\n      position: absolute;\n      bottom: 0;\n      right: 0;\n      background-color: lightblue;\n    }\n  </style>\n</head>\n<body>\n  <div class='box'></div>\n</body>\n</html>\n```",
+        "options": [
+          {
+            "id": 1,
+            "label": "A",
+            "text": "Pseudo-element ::after sẽ xuất hiện ở góc dưới bên phải của box với nền màu xanh sáng",
+            "isCorrect": true
+          },
+          {
+            "id": 2,
+            "label": "B",
+            "text": "Pseudo-element ::after sẽ xuất hiện ở góc trên bên phải của box với nền màu xanh sáng",
+            "isCorrect": false
+          },
+          {
+            "id": 3,
+            "label": "C",
+            "text": "Pseudo-element ::after sẽ xuất hiện ở góc dưới bên trái của box với nền màu xanh sáng",
+            "isCorrect": false
+          },
+          {
+            "id": 4,
+            "label": "D",
+            "text": "Pseudo-element ::after sẽ xuất hiện ở góc trên bên trái của box với nền màu xanh sáng",
+            "isCorrect": false
+          }
+        ]
+      }
+    ]
+  }
+]
